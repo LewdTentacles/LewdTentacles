@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 저의 공식 블로그입니다.
 
-## [Tentacle-insersion](https://github.com/Triple-lewd-Hentai/Tentacle-insertion)
+## [Tentacle-sort](https://github.com/Triple-lewd-Hentai/Tentacle-sort)
 
 컴퓨터과학의 여러 문제들의 코드 및 풀이를 올릴 계획입니다.
 
