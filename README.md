@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Tentacles
+
+컴퓨터과학에 관심이 있는 학생 프로그래머입니다!
+
+
+# Projects
+
+## [Triple-lewd-hentai](triple-lewd-hentai.github.io)
+
+저의 공식 블로그입니다.
+
+## [Tentacle-insersion](https://github.com/Triple-lewd-Hentai/Tentacle-insertion)
+
+컴퓨터과학의 여러 문제들의 코드 및 풀이를 올릴 계획입니다.
+
+
+## [Admission-sketch](https://github.com/Triple-lewd-Hentai/admission_sketch)
+
+한국 및 일본 대학별고사의 풀이를 올릴 계획입니다.
+
