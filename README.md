@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ## [Admission-sketch](https://github.com/Triple-lewd-Hentai/admission_sketch)
 
-한국 및 일본 대학별고사의 풀이를 올릴 계획입니다.
+한국 및 일본 대학별고사의 수학 문제 풀이를 올릴 계획입니다.
 
