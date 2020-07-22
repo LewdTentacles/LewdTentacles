@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Tentacles
 
 > A student programmer, Interested in computer science
+>
+>
 > 컴퓨터과학에 관심이 있는 학생 프로그래머입니다!
 
 
@@ -25,17 +27,23 @@ Here are some ideas to get you started:
 
 ## [Triple-lewd-hentai](https://triple-lewd-hentai.github.io)
 
-> My official blog
+> My official blog (ko-kr only)
+>
+>
 > 저의 공식 블로그입니다.
 
 
 ## [Tentacle-sort](https://github.com/Triple-lewd-Hentai/Tentacle-sort)
 
-> Various tentacles are solving computer science problems! 
+> Various tentacles are solving computer science problems! (ko-kr only)
+>
+>
 > 컴퓨터과학의 여러 문제들의 코드 및 풀이를 올릴 계획입니다.
 
 
 ## [Admission-sketch](https://github.com/Triple-lewd-Hentai/admission_sketch)
 
-> Solutions of Korean/Japanese university admission test problems (Math) 
+> Solutions of Korean/Japanese university admission test problems (ko-kr only)
+>
+>
 > 한국 및 일본 대학별고사의 수학 문제 풀이를 올릴 계획입니다.
