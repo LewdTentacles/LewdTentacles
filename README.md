@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## [Admission-sketch](https://github.com/Triple-lewd-Hentai/admission_sketch)
 
-> Solutions of Korean/Japanese university admission math problems (ko-kr only)
+> Solutions of Korean/Japanese university admission math problems (ko-kr, ja-jp?)
 >
 >
 > 한국 및 일본 대학별고사의 수학 문제 풀이를 올릴 계획입니다.
