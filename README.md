@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## [Triple-lewd-hentai](https://triple-lewd-hentai.github.io)
 
-> My official blog (ko-kr only)
+> My official blog
 >
 >
 > 저의 공식 블로그입니다.
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## [Tentacle-sort](https://github.com/Triple-lewd-Hentai/Tentacle-sort)
 
-> Various tentacles are solving computer science problems! (ko-kr only)
+> Various tentacles are solving computer science problems!
 >
 >
 > 컴퓨터과학의 여러 문제들의 코드 및 풀이를 올릴 계획입니다.
