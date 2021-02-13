@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Projects
 
-## [Triple-lewd-hentai](https://triple-lewd-hentai.github.io)
+## [LewdTentacles](https://lewdtentacles.github.io)
 
 > My official blog
 >
