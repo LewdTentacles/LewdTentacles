@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 > 저의 공식 블로그입니다.
 
 
-## [Tentacle-sort](https://github.com/Triple-lewd-Hentai/Tentacle-sort)
+## [Tentacomputer](https://github.com/Triple-lewd-Hentai/Tentacomputer)
 
 > Various tentacles are solving computer science problems!
 >
